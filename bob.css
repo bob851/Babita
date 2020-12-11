@@ -1,0 +1,30 @@
+
+@media screen and (max-width:12600px){
+    .sec1{
+        height: 30%;
+        
+    }
+}
+@media screen and (max-width:1200px){
+    .nav1 img{
+        width: 50%;
+        height: auto;
+    }}
+    @media screen and (max-width:1200px){
+        .sec2-div1 p{
+         padding-top: 8px;
+}
+.sec2-div6 p{
+    padding-bottom: 10px;
+}
+
+.sec2-div6{
+    margin-top: 5px;
+    
+}
+.sec2-div5{
+    
+    margin-top: 5px;
+}
+
+    }
